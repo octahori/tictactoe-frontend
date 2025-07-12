@@ -2,6 +2,11 @@
 
 A lightweight React SPA that lets you play an enhanced Tic-Tac-Toe game with “Overwrite” power-ups. The app consumes a REST API (`/game`, see `.src/api/gameApi.js`).
 
+> ⚠️ **Status: Inactive**
+> 
+> This application is currently **not live**. The deployment has been taken down, so there is no public URL available at the moment. You can still clone the repository and run it locally for learning purposes.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Quick Start
